@@ -1,1 +1,1 @@
-revise the notes
+1.gui calculator 2.password generator 3.to do list
